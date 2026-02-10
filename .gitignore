@@ -1,0 +1,11 @@
+# VS Code / Cursor
+.vscode/
+
+# Default WP themes (trial only)
+twentytwentyfive/
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
